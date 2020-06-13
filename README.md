@@ -10,4 +10,4 @@ Only the tmd file and the content files are needed.
 * Put the python script / .exe in your system's path
 * Change to the directory containing the tmd file and the content files.
 * run recover_h3 <tmdfile>
-The .h3 files will be written to the same directory.
+* The .h3 files will be written to the same directory.
